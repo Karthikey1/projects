@@ -1,9 +1,0 @@
-
----
-
-### **File: .gitignore**
-
-```plaintext
-__pycache__/
-*.pyc
-*.pyo
